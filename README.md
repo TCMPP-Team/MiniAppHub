@@ -24,8 +24,7 @@ Click **Download** to open the Release page, grab the `.zip`, unzip it, and impo
 ## How to run
 
 1. Download and unzip the project.
-2. Open **TCMPP** or **WeChat DevTools** and import the unzipped folder.
-3. Some demos use placeholders for sensitive values. Replace them with your own before running:
+2. Some demos use placeholders for sensitive values. Replace them with your own before running:
    - **App ID** — set `YOUR_TCSAS_APPID` in `project.config.json` (and `config/index.js` where present).
    - **Backend domain** — replace `your-backend-domain` with your own server/CDN host.
    - **LLM API key** — e.g. Health Assistant's `app.js` → `deepseekApiKey`.
